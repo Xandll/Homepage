@@ -295,12 +295,6 @@ footer {
     margin-top: 1rem;
 }
 
-/* Modify contact page styles */
-.no-scroll {
-    overflow: hidden;
-    height: 100vh;
-}
-
 .contact-hero {
     min-height: 20vh;
     padding: 1rem;
